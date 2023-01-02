@@ -1,0 +1,4 @@
+# Created at 2022-12-29T12:51:34.041
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Testing Ducat\JavaCoding\Ducat\Java_Ducat_Selenium_A.A.J.S\CucumberJavaaSelenium\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
