@@ -19,7 +19,7 @@ public class SetupConfigFileCode_BaseFile {
 	
 	public static WebDriver browserdriver;
 	public static Properties propfile= new Properties();
-	public static String config_filepath ="D:\\Testing Ducat\\JavaCoding\\Ducat\\Java_Ducat_Selenium_A.A.J.S\\CucumberJavaaSelenium\\configfile\\url.properties";
+	public static String config_filepath ="D:\\Testing Ducat\\DucatProjects\\Ducat\\Java_Ducat_Selenium_A.A.J.S\\CucumberJavaaSeleniumAAJS\\configfile\\url.properties";
 	public static String signinxpath = "//*[text()='Hello, sign in']";
 	
 	public static void read_browser() throws IOException, InterruptedException

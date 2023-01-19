@@ -11,8 +11,8 @@ import io.cucumber.java.en.When;
 import seleniumelements.CredentailsSetup;
 
 public class Login_Steps {
-	//github check
-		@Given("^Open Application & Enter URL$")
+	
+	@Given("^Open Application & Enter URL$")
 		public static void opened_browser() throws IOException, InterruptedException
 		{
 			SetupConfigFileCode_BaseFile.read_browser();
